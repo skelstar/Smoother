@@ -10,4 +10,4 @@ The length of the array (`factor`) determines how smoothed the value is.
 
 A common pattern would be to be entering in values and if you want to change something in a hurry, you can `clear` the array and re-seed it in time for new values (I did this for an electric skateboard remote).
 
-Credit goes to [Smooth](https://github.com/MattFryer/Smoothed) repo that I 'enhanced' for my purpose (the pre-seeding).
+Credit goes to [Smooth](https://github.com/MattFryer/Smoothed) (by @MattFryer) repo that I 'enhanced' for my purpose (the pre-seeding).
